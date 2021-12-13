@@ -1,6 +1,10 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: About Me
+=======
+title: About
+>>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
 =======
 title: About
 >>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
@@ -8,6 +12,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Hello! I'm Brittany Santos. (The M is my middle initial.)
 
@@ -44,6 +49,10 @@ Given that I'd spent my teenage years building personal websites by hand with no
 With my fiance's support, I resigned from Whole Foods in January 2021 to make a career change. I earned my Certificate in Technical Writing from the University of Maine Hutchinson Center in November 2021, and I am currently searching for part-time or full-time work.
 
 This portfolio demonstrates my technical writing capabilities. If you like what you see and you want to discuss your work opportunities with me, please contact me using any of my contact links!
+=======
+
+> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+>>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
 =======
 
 > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.

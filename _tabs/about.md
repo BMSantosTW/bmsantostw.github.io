@@ -1,13 +1,5 @@
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
 title: About Me
-=======
-title: About
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
-=======
-title: About
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
 icon: fas fa-info-circle
 order: 4
 ---

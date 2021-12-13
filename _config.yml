@@ -1,12 +1,3 @@
-# The Site Configuration
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
-=======
-
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -20,21 +11,9 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-<<<<<<< HEAD
-<<<<<<< HEAD
 timezone: America/New_York
-=======
-timezone: Asia/Shanghai
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
-=======
-timezone: Asia/Shanghai
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
-
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 title: Brittany M Santos                          # the main title
 
 tagline: Technical Writer   # it will display as the sub-title
@@ -50,63 +29,18 @@ github:
 
 twitter:
   username: BMSantosTW           # change to your twitter username
-=======
-=======
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
-title: Chirpy                          # the main title
-
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
-
-description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
-
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
-
-github:
-  username: github_username             # change to your github username
-
-twitter:
-  username: twitter_username            # change to your twitter username
-<<<<<<< HEAD
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
-=======
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-<<<<<<< HEAD
-<<<<<<< HEAD
   name: Brittany M Santos
   email: bmsantostw@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/BMSantosTW      # change to your twitter homepage
     - https://github.com/BMSantosTW       # change to your github homepage
-=======
-=======
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-<<<<<<< HEAD
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
-=======
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
-
-# ↑ --------------------------
-
 
 google_analytics:
   id: ''              # fill in your Google Analytics ID
@@ -136,15 +70,8 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 avatar: /assets/img/bmsantostw-avatar.png
-=======
-avatar:
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
-=======
-avatar:
->>>>>>> 3c354d197a28944c5fb003e4b187e85e149e723d
 
 # boolean type, the global switch for ToC in posts.
 toc: true

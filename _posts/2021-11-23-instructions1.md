@@ -1,9 +1,11 @@
 ---
-title: "Use WinStitch to Convert an Image into a Cross-Stitch Pattern"
+title: "[Tutorial] Use WinStitch to Convert an Image into a Cross-Stitch Pattern"
 date: 2021-11-23 21:41:00 -0500
 categories: [PORTFOLIO, INSTRUCTIONS]
 tags: [instructions, tutorial, user-facing documentation]
 ---
+> **Portfolio Note**: This tutorial is intended for an audience of intermediate or advanced cross-stitchers with basic computer skills. The cross-stitcher will know any terminology specific to cross-stitching and will be able to follow basic instructions in navigating computer programs. When followed correctly, these instructions will inform the reader how to convert an image to a full-coverage cross-stitch pattern.
+
 Many cross-stitchers who are familiar with modern trends in cross-stitching also know about full coverage patterns. Some cross-stitchers want to make full-coverage patterns from artwork or photography but don’t know how or don’t have the time. Computer programs such as WinStitch can convert photographs and artwork into these patterns, but the results can look subpar at times. Using basic skills in Photoshop and WinStitch, you can prepare and make professional-looking patterns!
 
 ## Prerequisites
@@ -17,7 +19,7 @@ You will need the following:
 | *Adobe Photoshop* | Install and use the latest version. Previous versions of Photoshop, such as Adobe Photoshop CS6, may be used instead if they have the Adjustment Layers function.|
 | *An image file* | Use artwork or photography that you have created, or have permission to use, especially if you are making the pattern for commercial purposes. |
 
-*Note:* Other image editing software, such as Paint.NET or GIMP, can be used instead of Photoshop, as they have similar capabilities, but instructions for using those programs are beyond the purview of this document.
+*Note:* Other image editing software, such as Paint.NET or GIMP, can be used instead of Photoshop, as they have similar capabilities, but instructions for using those programs are beyond the purview of this tutorial.
 
 ## Image Preparation in Photoshop
 

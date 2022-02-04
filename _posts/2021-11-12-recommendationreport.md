@@ -1,10 +1,9 @@
 ---
-title: "Recommendation Report on the Purchase of a Meal Planning App"
+title: "[Report] Recommendation Report on the Purchase of a Meal Planning App"
 date: 2021-11-12 11:12:00 -0500
 categories: [PORTFOLIO, RECOMMENDATION REPORT]
 tags: [report, internal documentation]     # TAG names should always be lowercase
 ---
-
 This is a recommendation report for an individual interested in purchasing a meal planning app. In the wake of the COVID-19 pandemic, meal planning apps took center stage when going out to eat at restaurants regularly was no longer a possibility for many. According to a survey conducted by the meal planning app eMeals, consumers went from cooking dinner 3.8 times a week to as many as six times a week at home in the wake of the pandemic [^5]. Beyond the pandemic, however, these apps still have a place in everyday life. Meal planning apps take the stress out of meal preparation for busy adults who want to spend less on takeout or eat better. Their algorithms pull from a database of recipes and present a nutritionally balanced meal plan each week for any household shape and size. However, one app may be better suited for one person than another due to the following:
 
 • Price
